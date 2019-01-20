@@ -1,10 +1,10 @@
 {
-  "number": "1,2,3",
+  "number": 123,
   "string": "Hello, it's me",
-  "boolean": "True",
+  "boolean": true,
   "object": {
   "name": "Вася",
-  "age": "32"
+  "age": 32
 },
-  "null": "null"
+  "null": null
 }
