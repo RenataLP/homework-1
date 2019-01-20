@@ -2,6 +2,9 @@
   "number": "1,2,3",
   "string": "Hello, it's me",
   "boolean": "True",
-  "object": {"name": "Вася"}
+  "object": {
+  "name": "Вася",
+  "age": "32"
+},
   "null": "null"
 }
