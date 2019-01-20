@@ -1,0 +1,7 @@
+{
+  "number": "1,2,3",
+  "string": "Hello, it's me",
+  "boolean": "True",
+  "object": {"name": "Вася"}
+  "null": "null"
+}
